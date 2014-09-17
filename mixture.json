@@ -1,0 +1,47 @@
+{
+    "debug": false,
+    "lintScripts": false,
+    "preprocessorLocations": [
+        "public"
+    ],
+    "preprocessorScriptOutput": "public/js",
+    "preprocessorStyleOutput": "public/css",
+    "projectName": "deglore2",
+    "projectDescription": "Landing page for any bootstrap-based site",
+    "publishedId": "17513",
+    "serverHostname": null,
+    "serverPort": null,
+    "templateDirectory": "templates",
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "index",
+    "type": "mixture",
+    "useCompass": false,
+    "simpleModePartnerServer": null,
+    "simpleModeFileTypes": null,
+    "modelSource": null,
+    "domain": null,
+    "convertHtml": {
+        "path": null,
+        "extension": ".html",
+        "ignoreUrls": null,
+        "relativePaths": false,
+        "default": null
+    },
+    "followLeader": true,
+    "routes": null,
+    "customRuby": false,
+    "customRubyPath": null,
+    "remoteDebugPort": 0,
+    "optimiseImages": true,
+    "password": null,
+    "ignoreDir": [
+        "public/css/less/bootstrap"
+    ],
+    "customTodos": null,
+    "autoPrefixer": null,
+    "sass": null,
+    "sitemap": false,
+    "less": null,
+    "optimiseSVG": true,
+    "reload": 0
+}
